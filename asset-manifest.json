@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.56032bfc.chunk.css",
+    "main.js": "/static/js/main.f2ef17fa.chunk.js",
+    "main.js.map": "/static/js/main.f2ef17fa.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b8fda146.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b8fda146.js.map",
+    "static/js/2.a81a4b7e.chunk.js": "/static/js/2.a81a4b7e.chunk.js",
+    "static/js/2.a81a4b7e.chunk.js.map": "/static/js/2.a81a4b7e.chunk.js.map",
+    "static/js/3.97b9e864.chunk.js": "/static/js/3.97b9e864.chunk.js",
+    "static/js/3.97b9e864.chunk.js.map": "/static/js/3.97b9e864.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.56032bfc.chunk.css.map": "/static/css/main.56032bfc.chunk.css.map",
+    "static/js/2.a81a4b7e.chunk.js.LICENSE.txt": "/static/js/2.a81a4b7e.chunk.js.LICENSE.txt",
+    "static/media/download-solid.8bb48f7f.svg": "/static/media/download-solid.8bb48f7f.svg",
+    "static/media/envelope-solid.5aeda2eb.svg": "/static/media/envelope-solid.5aeda2eb.svg",
+    "static/media/external-link-alt-solid.58fa6197.svg": "/static/media/external-link-alt-solid.58fa6197.svg",
+    "static/media/github-brands.8bce9409.svg": "/static/media/github-brands.8bce9409.svg",
+    "static/media/linkedin-brands.1a3b6e53.svg": "/static/media/linkedin-brands.1a3b6e53.svg",
+    "static/media/phone-alt-solid(1).a1c707cc.svg": "/static/media/phone-alt-solid(1).a1c707cc.svg",
+    "static/media/profile.5998a4ed.jpg": "/static/media/profile.5998a4ed.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8fda146.js",
+    "static/js/2.a81a4b7e.chunk.js",
+    "static/css/main.56032bfc.chunk.css",
+    "static/js/main.f2ef17fa.chunk.js"
+  ]
+}
